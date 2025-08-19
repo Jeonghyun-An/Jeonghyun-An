@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonghyun-An&layout=donut&theme=tokyonight&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonghyun-An&layout=donut-vertical&theme=tokyonight&langs_count=7)
