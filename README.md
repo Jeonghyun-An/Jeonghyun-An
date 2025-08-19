@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Hyonii's github stats](https://github-readme-stats.vercel.app/api?username=Jeonghyun-An&show_icons=true&theme=tokyonight)
+![Hyonii's github stats](https://github-readme-stats.vercel.app/api?username=Jeonghyun-An&show_icons=true&theme=gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonghyun-An&layout=donut&theme=tokyonight&langs_count=7)
